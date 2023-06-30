@@ -1,0 +1,13 @@
+th{
+    border-style: solid;
+    border-color: black;
+   background-color: bisque;
+}
+td{
+    border-style: solid;
+    border-color: grey;
+    padding: 10px;
+}
+table{
+    border-collapse: collapse;
+}
